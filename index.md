@@ -33,17 +33,17 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/CSCI 315 Ethics Paper.pdf)
 
--   **Class:**  
+-   **Class: CSCI 315**  
 -   **Grade:**
 
 ### [Paper 2 Title](/pdf/CSCI 332 Ethics Paper.pdf)
 
--   **Class:** 
+-   **Class: CSCI 332** 
 -   **Grade:**
 
 ### [Paper 3 Title](/pdf/Ethics paper.pdf)
 
--   **Class:** 
+-   **Class: CSCI 301** 
 -   **Grade:**
 
 ---
@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](/pdf/Cybersecurity Presentation.pdf)
 
 - **Class:** 
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](/pdf/Security Presentation.pdf)
 
 - **Class:** 
 - **Grade:**
