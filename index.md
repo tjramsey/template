@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:tjramsey@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 325](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 Title | CSCI 332](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 419](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -53,13 +53,13 @@ Presentations
 
 ### [Presentation 1 Title](/pdf/Cybersecurity Presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 301** 
 - **Grade:**
 
 
 ### [Presentation 2 Title](/pdf/Security Presentation.pdf)
 
-- **Class:** 
+- **Class: CSCI 301** 
 - **Grade:**
 
 ---
