@@ -39,7 +39,7 @@ Ethics Papers
 ### [Paper 2 Title](/pdf/CSCI 332 Ethics Paper.pdf)
 
 -   **Class: CSCI 332** 
--   **Grade:**
+-   **Grade: 100**
 
 ### [Paper 3 Title](/pdf/Ethics paper.pdf)
 
