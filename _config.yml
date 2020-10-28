@@ -1,7 +1,7 @@
 # Site settings
 # These are used to personalize your new site.
 title: Thomas Ramsey # your name here
-logo: <img src="tjramsey.github.io/blob/master/githubavatar.png"> # your photo (or logo) here
+logo: <img src="tjramsey.github.io/githubavatar.png"> # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
